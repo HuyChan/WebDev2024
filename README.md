@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
-* Project Name: *Your Project Name here*
+* Name: Trần Ngọc Huy 
+* ID: BA12090
+* Group ID: 19
+* Project Name: Event Booking System	
